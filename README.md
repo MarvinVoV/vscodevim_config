@@ -1,0 +1,1 @@
+# vscodevim_config
